@@ -29,3 +29,5 @@ SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/.NE
 SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/ConsoleUI.AssemblyInfo.cs
 SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
 SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/ConsoleUI.GlobalUsings.g.cs
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/.vs/ConsoleUI/v17/.suo
+*.json

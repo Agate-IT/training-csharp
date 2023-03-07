@@ -18,7 +18,7 @@ In the SRPDemo, we have a simple ConsoleUI that generate username for the person
 Do you think it is good enough? 
 
 ### Tips for implementation
-- If we want to change the way that we want to tall to user, we need to change the Program.cs file.
+- If we want to change the way that we want to talk to user, we need to change the Program.cs file.
 - If we want to inform user that we've finished creating the username, we also need to change the Program.cs file.
 - If we change the way to capture the user's first or last name?
 - Morever, if we change the way to validate the input from user?
