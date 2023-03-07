@@ -1,0 +1,31 @@
+
+*.cache
+*.v2
+SOLID/Single Responsibility Principle/ConsoleUI/.vs/ConsoleUI/v17/.suo
+*.vsidx
+*.lock
+*.sqlite
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/bin/Debug/net6.0/ConsoleUI.deps.json
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/bin/Debug/net6.0/ConsoleUI.dll
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/bin/Debug/net6.0/ConsoleUI.exe
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/bin/Debug/net6.0/ConsoleUI.pdb
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/bin/Debug/net6.0/ConsoleUI.runtimeconfig.json
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/apphost.exe
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ConsoleUI.AssemblyInfo.cs
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ConsoleUI.csproj.BuildWithSkipAnalyzers
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ConsoleUI.csproj.FileListAbsolute.txt
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ConsoleUI.dll
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ConsoleUI.GlobalUsings.g.cs
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ConsoleUI.pdb
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/ref/ConsoleUI.dll
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Debug/net6.0/refint/ConsoleUI.dll
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/ConsoleUI.csproj.nuget.dgspec.json
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/ConsoleUI.csproj.nuget.g.props
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/ConsoleUI.csproj.nuget.g.targets
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/project.assets.json
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/ConsoleUI.AssemblyInfo.cs
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+SOLID/Single Responsibility Principle/ConsoleUI/ConsoleUI/obj/Release/net6.0/ConsoleUI.GlobalUsings.g.cs
