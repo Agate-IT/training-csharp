@@ -1,52 +1,46 @@
-# Welcome to Agate-IT C# training!
+# Basic C#
 
-Hi, the goal of this repository is to help you review your C#/ .NET knowledge and improve it. You will find different sections from the basic to advanced C# topics. 
-We've also included important knowledge with exercices for clean code, SOLID, design partterns as well as training for TDD, BDD, etc.
-Last but not least, this is certainly not the most complete repository for C# training. Please feel free to enrich it and let's make it awesome together :)
-
-
-- [Welcome to Agate-IT C# training!](#welcome-to-agate-it-c-training)
-- [OOP](#oop)
-- [Basic C#](#basic-c)
-- [Advanced C#](#advanced-c)
-- [SOLID](#solid)
-  - [Single Responsibility Principle](#single-responsibility-principle)
-  - [Open Closed Principle](#open-closed-principle)
-  - [Liskov Substitution Principle](#liskov-substitution-principle)
-  - [Interface Segregation Principle](#interface-segregation-principle)
-  - [Dependency Inversion Principle](#dependency-inversion-principle)
-- [DESIGN PARTTERNS](#design-partterns)
-- [ALGOs](#algos)
-  - [Fizzbuzz](#fizzbuzz)
-  - [Fibonaci Recursive vs Iterative](#fibonaci-recursive-vs-iterative)
-- [Software craft Man ship](#software-craft-man-ship)
-  - [TDD](#tdd)
-    - [StringCalculator](#stringcalculator)
-  - [BDD](#bdd)
-- [Different .Net environments](#different-net-environments)
-
-
-# OOP
-
-# Basic C# 
-
-# Advanced C# 
-
-# SOLID
-## Single Responsibility Principle
-## Open Closed Principle
-## Liskov Substitution Principle
-## Interface Segregation Principle
-## Dependency Inversion Principle
-
-# DESIGN PARTTERNS
-
-# ALGOs
-## Fizzbuzz
-## Fibonaci Recursive vs Iterative
-
-# Software craft Man ship
-## TDD
-### StringCalculator
-## BDD
-# Different .Net environments
+- [ ] Difference between New and Override
+- [ ] Difference between Virtual and Override
+- [ ] Difference between aggregation and composition 
+- [ ] Difference between a normal class and an abstract class
+- [ ] Difference between a normal class and an interface
+- [ ] Difference between overriding and overloading
+- [ ] What is generic type? How to create a generic type? What are generic constraints?
+- [ ] Immutable vs mutable types
+- [ ] The 5 visibility modifiers
+- [ ] What is reflection?
+- [ ] The 'dynamic' keyword? var?
+- [ ] Difference between a reference type and a value type
+- [ ] Difference between implicit and explicit interface implementation
+- [ ] How to declare an anonymous method? Difference between Func and Action?
+- [ ] How to declare a lambda expression
+- [ ] What is the IDisposable interface?
+- [ ] The two uses of the 'using' keyword (statement, directive)
+- [ ] What is the IEnumerable interface?
+- [ ] What is the IEnumerator interface?
+- [ ] The 'foreach' keyword
+- [ ] The 'yied' keyword
+- [ ] How to hide a method from the base class?
+- [ ] How to call a method (or constructor) from the base class?
+- [ ] What is a static class?
+- [ ] Static constructors and methods
+- [ ] How to use an anonymous type?
+- [ ] The main languages compatible with the .NET platform
+- [ ] What is MSIL?
+- [ ] How does the .NET platform work?
+- [ ] What are the main software components of the .NET framework?
+- [ ] The role of CLR in the .NET environment
+- [ ] The different elements that compose CLR
+- [ ] What is CTS? 
+- [ ] What is the Just-In-Time (JIT) compiler? How does it work?
+- [ ] What is Garbage Collector? How does it work?
+- [ ] How does CLR handle exceptions? 
+- [ ] How to declare and use an extension method? 
+- [ ] How to implement an Extension Method?
+- [ ] How to write selection queries with fluent/LINQ syntax? 
+- [ ] How to write an inner join with both syntaxes? 
+- [ ] How to write an outer join with both syntaxes? 
+- [ ] How to write a group by with both syntaxes?
+- [ ] What is lazy loading? 
+- [ ] How to declare and use a delegate?
