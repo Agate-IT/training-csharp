@@ -1,4 +1,4 @@
-# Welcome to Agate-IT C# training!
+# Welcome to AGATE-IT C# training!
 
 Hi, the goal of this repository is to help you review your C#/ .NET knowledge and improve it. You will find different sections from the basic to advanced C# topics. 
 We've also included important knowledge with exercices for clean code, SOLID, design partterns as well as training for TDD, BDD, etc.
