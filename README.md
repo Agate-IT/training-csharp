@@ -16,6 +16,7 @@ Ce dépôt a pour objectif de vous accompagner dans l'apprentissage et le perfec
 | [04 - Algorithmes](./04-Algorithmes/) | Exercices algorithmiques | Tous niveaux |
 | [Software Craftsmanship](./Software-Craftsmanship/) | TDD, BDD, Clean Code | Avancé |
 | [05 - Environnements .NET](./05-Environnements-DotNet/) | .NET Framework, Core, 5/6/7/8 | Tous niveaux |
+| **[Katas](./Katas/)** | **Exercices pratiques TDD** | **Tous niveaux** |
 
 ---
 
