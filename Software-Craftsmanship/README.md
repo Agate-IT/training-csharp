@@ -148,7 +148,17 @@ public void TraiterCommande(Commande cmd)
 
 ---
 
-## 🎯 Kata recommandé
+## 🎯 Katas recommandés
+
+### Katas TDD (dans ce repo)
+
+| Kata | Niveau | Description |
+|------|--------|-------------|
+| [StringCalculator](../Katas/StringCalculator/) | Débutant | Kata TDD classique de Roy Osherove |
+| [Bowling Game](../Katas/BowlingGame/) | Intermédiaire | Kata TDD de Uncle Bob |
+| [Gilded Rose](../Katas/GildedRose/) | Avancé | Kata de refactoring |
+
+### Projet complet
 
 **[MiniBourse-Kata Level 3 (Avancé)](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level3-Advanced)**
 
