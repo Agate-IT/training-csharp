@@ -140,4 +140,15 @@ Créez une hiérarchie de classes pour un système de formes géométriques :
 
 ---
 
+## 🎯 Kata recommandé
+
+**[MiniBourse-Kata Level 1 (Junior)](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level1-Junior)**
+
+Mettez en pratique les concepts de POO avec un simulateur de bourse :
+- Créer des classes `Share`, `Portfolio`, `Player`
+- Implémenter des interfaces `IShare`, `IPortfolio`, `IPlayer`
+- Écrire vos premiers tests unitaires
+
+---
+
 ➡️ **Suivant** : [01 - C# Fondamental](../01-Basic-CSharp/)

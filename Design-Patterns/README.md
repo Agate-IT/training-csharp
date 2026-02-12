@@ -164,6 +164,18 @@ public class AjouterTexteCommand : ICommand
 
 ---
 
+## 🎯 Kata recommandé
+
+**[MiniBourse-Kata Level 2 (Intermédiaire)](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level2-Intermediate)**
+
+Mettez en pratique les Design Patterns avec un simulateur de bourse :
+- **Strategy** : Stratégies d'investissement (`SafeStrategy`, `AggressiveStrategy`, etc.)
+- **Factory** : Création de joueurs et de stratégies
+- **Dependency Injection** : Injection des dépendances via constructeur
+- **Mocking** : Tests avec Moq
+
+---
+
 ## Ressources
 
 - [Refactoring Guru](https://refactoring.guru/design-patterns)

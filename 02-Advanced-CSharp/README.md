@@ -175,4 +175,15 @@ dict.GetOrAdd("clé", k => CalculerValeur(k));
 
 ---
 
+## 🎯 Kata recommandé
+
+**[MiniBourse-Kata Level 2 (Intermédiaire)](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level2-Intermediate)**
+
+Mettez en pratique les concepts avancés :
+- Utilisation de `SemaphoreSlim` pour le rate limiting
+- Tests asynchrones avec Moq
+- Injection de dépendances
+
+---
+
 ➡️ **Suivant** : [03 - SOLID](../03-SOLID/)

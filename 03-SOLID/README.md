@@ -25,6 +25,7 @@ public class EmployeeReporter { public string GenerateReport(Employee e) { } }
 ```
 
 ➡️ [Voir l'exercice SRP](./Single%20Responsibility%20Principle/)
+🎯 **Pratique** : [MiniBourse-Kata Level 2](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level2-Intermediate) - applique SRP avec les strategies
 
 ---
 
@@ -61,6 +62,7 @@ public class Triangle : IForme // Nouvelle forme = nouvelle classe
 ```
 
 ➡️ [Voir l'exercice OCP](./Open%20Close%20Principle/)
+🎯 **Pratique** : [MiniBourse-Kata Level 2](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level2-Intermediate) - ajout de nouvelles stratégies sans modifier l'existant
 
 ---
 

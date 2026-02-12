@@ -148,6 +148,18 @@ public void TraiterCommande(Commande cmd)
 
 ---
 
+## 🎯 Kata recommandé
+
+**[MiniBourse-Kata Level 3 (Avancé)](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level3-Advanced)**
+
+Mettez en pratique le Software Craftsmanship avec un simulateur de bourse :
+- **Clean Architecture** : Séparation Domain / Application / Infrastructure
+- **DDD** : Value Objects, Entities, Domain Events
+- **CQRS** : Commandes et Queries séparées
+- **TDD** : Développement piloté par les tests
+
+---
+
 ## Ressources
 
 - [Clean Code - Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)

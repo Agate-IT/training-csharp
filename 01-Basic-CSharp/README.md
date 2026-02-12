@@ -202,4 +202,15 @@ using var ressource = new FileStream("fichier.txt", FileMode.Open);
 
 ---
 
+## 🎯 Kata recommandé
+
+**[MiniBourse-Kata Level 1 (Junior)](https://github.com/Agate-IT/MiniBourse-Kata/tree/main/Level1-Junior)**
+
+Mettez en pratique les fondamentaux C# :
+- Utilisation des collections et LINQ
+- Implémentation d'interfaces
+- Tests unitaires avec xUnit et FluentAssertions
+
+---
+
 ➡️ **Suivant** : [02 - C# Avancé](../02-Advanced-CSharp/)
