@@ -228,4 +228,15 @@ Ensemble, faisons de cette ressource quelque chose d'exceptionnel !
 
 ---
 
+## Autres formations AGATE IT
+
+| Formation | Description | Lien |
+|-----------|-------------|------|
+| **training-java** | Formation Java complète | [Voir](https://github.com/Agate-IT/training-java) |
+| **training-python** | Formation Python complète | [Voir](https://github.com/Agate-IT/training-python) |
+| **training-ia** | Formation Intelligence Artificielle | [Voir](https://github.com/Agate-IT/training-ia) |
+| **MiniBourse-Kata** | Kata progressif en 3 niveaux | [Voir](https://github.com/Agate-IT/MiniBourse-Kata) |
+
+---
+
 *Créé et maintenu par [AGATE IT](https://github.com/Agate-IT)*
