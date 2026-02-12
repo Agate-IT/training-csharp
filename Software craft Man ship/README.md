@@ -1,1 +1,0 @@
-# Software craft Man ship
